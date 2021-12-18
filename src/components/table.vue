@@ -374,7 +374,7 @@ export default {
 .width70 {
   width: 70%;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1306px) {
   .d-flex {
     flex-direction: column-reverse;
   }

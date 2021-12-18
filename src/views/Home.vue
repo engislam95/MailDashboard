@@ -45,7 +45,7 @@ export default {
 .q-chip {
   background: transparent !important;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1306px) {
   .header {
     background-image: unset;
     text-align: center;
